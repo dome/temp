@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320mm"
+   height="320mm"
+   viewBox="0 0 320 320"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       id="588c296379">
+      <path
+         d="m 95,176 h 14 v 59.03906 H 95 Z m 0,0"
+         clip-rule="nonzero"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="6fa16d4cd0">
+      <path
+         d="m 114,139.78906 h 14 V 212 h -14 z m 0,0"
+         clip-rule="nonzero"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(1.0457274,0,0,1.1587742,37.869812,45.211275)">
+      <path
+         fill="#dd390d"
+         d="m 8.1818186,113.94577 32.1206444,6.14854 V 58.726387 L 8.1818186,52.57785 Z m 0,0"
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path3"
+         style="stroke-width:2.15591" />
+      <path
+         fill="#279b48"
+         d="m 54.096071,95.507521 32.13031,6.148519 V 34.132257 L 54.096071,27.98372 Z m 0,0"
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path4"
+         style="stroke-width:2.15591" />
+      <path
+         fill="#dd390d"
+         d="m 100.08765,137.39531 32.12065,6.1412 V 63.671622 l -32.12065,-6.148538 z m 0,0"
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path5"
+         style="stroke-width:2.15591" />
+      <g
+         clip-path="url(#588c296379)"
+         id="g6"
+         transform="matrix(2.4745365,0,0,1.8783106,-91.118624,-253.02182)">
+        <path
+           fill="#dd390d"
+           d="m 95.851562,231.95703 12.980468,3.27344 v -55.61328 l -12.980468,-3.27344 z m 0,0"
+           fill-opacity="1"
+           fill-rule="nonzero"
+           id="path6" />
+      </g>
+      <g
+         clip-path="url(#6fa16d4cd0)"
+         id="g7"
+         transform="matrix(2.4745365,0,0,1.8783106,-91.118624,-253.02182)">
+        <path
+           fill="#279b48"
+           d="m 114.41016,139.76172 v 68.70312 l 12.98047,3.27344 v -68.70312 z m 0,0"
+           fill-opacity="1"
+           fill-rule="nonzero"
+           id="path7" />
+      </g>
+    </g>
+  </g>
+</svg>
